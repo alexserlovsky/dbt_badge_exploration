@@ -14,6 +14,7 @@ staged as (
         order_date,
         status
     from source
+    
 )
 
 select * from staged
